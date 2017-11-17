@@ -1,3 +1,3 @@
 <template>
-  <div>Changed Vue component</div>
+  <div>rrrr Vue component</div>
 </template>
