@@ -115,7 +115,7 @@ var app = new Vue({
     el: '#app'
 });
 
-$('body').append('<p>Appended from jQuery</p>');
+$('body').append('<p>Changed from jQuery</p>');
 
 /***/ }),
 /* 3 */
@@ -21665,7 +21665,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("Example Vue component")])
+  return _c("div", [_vm._v("Changed Vue component")])
 }
 var staticRenderFns = []
 render._withStripped = true

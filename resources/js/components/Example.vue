@@ -1,3 +1,3 @@
 <template>
-  <div>Example Vue component</div>
+  <div>Changed Vue component</div>
 </template>

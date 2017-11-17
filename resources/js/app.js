@@ -12,5 +12,5 @@ const app = new Vue({
 });
 
 
-$('body').append('<p>Appended from jQuery</p>');
+$('body').append('<p>Changed from jQuery</p>');
 

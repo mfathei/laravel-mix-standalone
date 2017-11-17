@@ -12,7 +12,8 @@ let mix = require('laravel-mix');
  */
 
 mix.js('resources/js/app.js', 'public/js/app.js')
-   .sass('resources/css/app.scss', 'public/css/app.css');
+   .sass('resources/css/app.scss', 'public/css/app.css')
+   .browserSync('http://0.0.0.0:8989');
 
 // Full API
 // mix.js(src, output);
